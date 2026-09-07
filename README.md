@@ -1,4 +1,4 @@
-# CDK: certified divisive determination of the number of clusters
+# CDK Code: certified divisive determination of the number of clusters
 
 Code, raw results and reproduction material for the journal extension of
 the CDK paper ("Determining the number of clusters without a candidate
